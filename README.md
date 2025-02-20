@@ -16,7 +16,18 @@
  - create Redux store with userSlice
  - Implement Sign Out
  - Update profile
-
+ - we unsubscribe to be onauthStateChanged callback
+ - Add hardcode values to constant files
+ - Register TMDB API & create an app and get access token
+ - Get Data from TMDB now playing movies list API
+ - Custom Hook for nowPlayingMovie
+ - Create Movie Slice
+ - Update store eith movies data
+ - Planning for Main contatiner and secondary
+ - Fetch data for trailer
+ - Update the store
+ - Embedded the youtube video and make it autoplay ans mute
+ - using tailwindcss
 
  # Features
  -login/signup
